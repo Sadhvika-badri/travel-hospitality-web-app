@@ -7,6 +7,35 @@ The Travel & Hospitality Web Application is a modern, responsive web platform de
 The application offers destination guides, recommendations, and engaging visuals to enhance the travel planning experience while ensuring seamless usability across different devices.
 
 ---
+##  Live Demo
+
+ **Live Application:**
+https://travel-hospitality-web-app.vercel.app/
+
+**GitHub Repository:**
+https://github.com/Sadhvika-badri/travel-hospitality-web-app
+
+---
+
+## 📸 Application Preview
+
+### 🏠 Home Page
+
+<img src="screenshots/home-page.png" width="100%">
+
+### 🏨 Hotel Discovery
+
+<img src="screenshots/hotels-page.png" width="100%">
+
+### 📚 Travel Guides
+
+<img src="screenshots/guides-page.png" width="100%">
+
+### 🎯 Smart Match Recommendations
+
+<img src="screenshots/smart-match-page.png" width="100%">
+
+---
 
 ## Features
 

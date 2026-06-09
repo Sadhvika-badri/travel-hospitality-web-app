@@ -19,19 +19,19 @@ https://github.com/Sadhvika-badri/travel-hospitality-web-app
 
 ## 📸 Application Preview
 
-### 🏠 Home Page
+###  Home Page
 
 <img src="screenshots/home-page.png" width="100%">
 
-### 🏨 Hotel Discovery
+###  Hotel Discovery
 
 <img src="screenshots/hotels-page.png" width="100%">
 
-### 📚 Travel Guides
+###  Travel Guides
 
 <img src="screenshots/guides-page.png" width="100%">
 
-### 🎯 Smart Match Recommendations
+###  Smart Match Recommendations
 
 <img src="screenshots/smart-match-page.png" width="100%">
 

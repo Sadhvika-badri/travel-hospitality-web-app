@@ -1,16 +1,121 @@
-# React + Vite
+# Travel & Hospitality Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The Travel & Hospitality Web Application is a modern, responsive web platform designed to help users explore popular travel destinations and discover valuable travel information through an intuitive and visually appealing interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The application offers destination guides, recommendations, and engaging visuals to enhance the travel planning experience while ensuring seamless usability across different devices.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+* Explore popular travel destinations
+* View destination-specific information and recommendations
+* Responsive and user-friendly design
+* Interactive navigation and modern UI
+* Dynamic travel data integration
+* High-quality destination imagery
+* Fast and optimized performance
+* Cross-device compatibility
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Technologies Used
+
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Development Tools
+
+* Vite
+* Git
+* GitHub
+
+### Deployment
+
+* Vercel
+
+---
+
+## Project Structure
+
+```text
+src/
+├── components/
+├── pages/
+├── data/
+├── assets/
+└── App.jsx
+
+public/
+├── images/
+└── static assets/
+```
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Sadhvika-badri/travel-hospitality-web-app.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd travel-hospitality-web-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## Future Enhancements
+
+* User authentication
+* Hotel booking integration
+* Travel itinerary planning
+* Search and filtering functionality
+* Weather information integration
+* Personalized travel recommendations
+
+---
+
+## Author
+
+**Sadhvika Badri**
+
+B.Tech Graduate in Information Technology
+
+Aspiring Software Engineer with a passion for developing modern, responsive, and user-centric web applications.
+
+---
+
+## License
+
+This project is developed for educational and portfolio purposes.
